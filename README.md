@@ -31,5 +31,5 @@ This GitHub is where I keep examples of that work, both polished demos and in-pr
 - *(coming soon)* MLOps Demo – Production-ready deployment pipeline  
 
 ### Contact
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-url)  
-- [Email](mailto:your-email@example.com)  
+- [LinkedIn](https://www.linkedin.com/in/katrinacrystal)  
+- [Email](mailto:katrinacrystal.business@gmail.com)  
