@@ -4,9 +4,7 @@ Independent Automation & AI Consultant | Aspiring AI Engineer
 Salt Lake City, UT  
 
 ### About
-I’m building applied AI projects that focus on solving real business problems.  
-My work spans workflow automation, large language model (LLM) integrations, and MLOps practices for deploying reliable systems.  
-This GitHub is where I keep examples of that work, both polished demos and in-progress experiments.  
+I’m building applied AI projects that focus on solving real business problems. My work spans workflow automation, large language model (LLM) integrations, and MLOps practices for deploying reliable systems. This GitHub is where I keep examples of that work, both polished demos and in-progress experiments.  
 
 ### Current Projects
 - **RAG-Powered Business Report Assistant**  
