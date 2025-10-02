@@ -1,4 +1,4 @@
-# Katrina Crystal
+### Katrina Crystal
 
 Independent Automation & AI Consultant | Aspiring AI Engineer  
 Salt Lake City, UT  
